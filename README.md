@@ -33,6 +33,8 @@ the next morning by 9:00am.
 * `index.js`
 * `controllers/cookbooks.js`
 * `controllers/authors.js`
+* `db/cookbooks.json`
+* `db/authors.json`
 
 2. In the order the files are listed above, work through the prompts, adding your route/controller code block under each prompt.
 3. After you have finished each prompt, use Postman to find all cookbooks in the database, and copy and paste your JSON object into the `db/cookbooks.json` file.

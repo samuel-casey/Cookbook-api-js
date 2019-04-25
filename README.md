@@ -28,7 +28,9 @@ the next morning by 9:00am.
 
 ## Requirements
 
-1. Review the prompts that are provided to you in the following files:
+1. Start your server from the terminal.
+2. Your models, connection and seed files are already set up for you. Run `mongod` in your terminal. In a different tab, seed your data from the command line.
+3. Review the prompts that are provided to you in the following files:
 
 * `index.js`
 * `controllers/cookbooks.js`
@@ -36,10 +38,10 @@ the next morning by 9:00am.
 * `db/cookbooks.json`
 * `db/authors.json`
 
-2. In the order the files are listed above, work through the prompts, adding your route/controller code block under each prompt.
-3. After you have finished each prompt, use Postman to find all cookbooks in the database, and copy and paste your JSON object into the `db/cookbooks.json` file.
-4. Do the same thing with your authors collection. Use Postman to find all authors in the database, and copy and paste your JSON object into the `db/authors.json` file.
-3. Submit with a pull request on this repo.
+4. In the order the files are listed above, work through the prompts, adding your route/controller code block under each prompt.
+5. After you have finished each prompt, use Postman to find all cookbooks in the database, and copy and paste your JSON object into the `db/cookbooks.json` file.
+6. Do the same thing with your authors collection. Use Postman to find all authors in the database, and copy and paste your JSON object into the `db/authors.json` file.
+7. Submit with a pull request on this repo.
 
 ## Plagiarism
 

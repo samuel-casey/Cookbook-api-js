@@ -41,17 +41,6 @@ the next morning by 9:00am.
 4. Do the same thing with your authors collection. Use Postman to find all authors in the database, and copy and paste your JSON object into the `db/authors.json` file.
 3. Submit with a pull request on this repo.
 
-## Bonus
-
-Bonuses are described after the requirements, if included. They should be worked
-on **only after** passing requirements.
-
-Less experienced students should be able to complete the base requirements in
-the alloted time for labs and in around 2 hours for homework; more experienced
-students should be to complete the bonus.
-
-Sometimes, we ask questions that promote thinking critically about code.
-
 ## Plagiarism
 
 Take a moment to refamiliarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.

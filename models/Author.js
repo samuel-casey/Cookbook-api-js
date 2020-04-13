@@ -1,15 +1,17 @@
-const mongoose = require('../db/connection')
-const Schema = mongoose.Schema
+//Import connection
 
-const Author = new Schema({
-  firstName: String,
-  lastName: String,
-  cookbooks: [
-    {
-      type: Schema.Types.ObjectId,
-      ref: 'Cookbook'
-    }
-  ]
-})
 
-module.exports = mongoose.model('Author', Author)
+/* Create Author model as new schema
+    properties:
+    firstName (string),
+    lastName (string),
+    cookbooks[] (reference to Cookbook model by id)
+*/
+
+
+
+//export model named "Author"
+
+
+
+

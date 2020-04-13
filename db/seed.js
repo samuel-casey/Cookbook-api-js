@@ -21,7 +21,7 @@ Author.find({}).remove(() => {
           author.cookbooks.push(cookbook)
         })
       ]).then(() => {
-        author.save(err => console.log(err))
+        author.save()
       })
     })
     let alison = Author.create({
@@ -36,7 +36,7 @@ Author.find({}).remove(() => {
           author.cookbooks.push(cookbook)
         })
       ]).then(() => {
-        author.save(err => console.log(err))
+        author.save()
       })
     })
     let kenji = Author.create({
@@ -51,7 +51,7 @@ Author.find({}).remove(() => {
           author.cookbooks.push(cookbook)
         })
       ]).then(() => {
-        author.save(err => console.log(err))
+        author.save()
       })
     })
   })

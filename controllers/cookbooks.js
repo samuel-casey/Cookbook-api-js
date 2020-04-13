@@ -1,24 +1,17 @@
 const express = require('express')
 const router = express.Router()
-// 3. Require the Cookbook model.
+// Require the Cookbook model.
 
-// 4. Write the route and controller to list all cookbooks
+// Write the controller to list all cookbooks
 
-// 5. Write the route and controller to get cookbook by title
+// Write the controller to get cookbook by title
 
-// 6. Write the route and controller to get cookbook by year published
+// Write the controller to get cookbook by year published
 
-// 7. Write the route and controller to create the following cookbook:
-//           title: "jerusalem: a cookbook"
-//           yearPublished: 2012
-// Hint: If you haven't already, go to your index.js file and complete those prompts!
+// Write the controller to create a cookbook
 
-// 8. Add the cookbookbook to the database using Postman
+// Write the controller to update a cookbook
 
-// 9. Write the route and controller to update the cookbook titled "dining in" to have been published in 2017
+// Write the controller to delete the cookbook by title
 
-// 10. Update the cookbook using Postman
-
-// 11. Write the route and controller to delete the cookbook with the title "the food lab".
-
-module.exports = router
+//export controller functions

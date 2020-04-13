@@ -36,8 +36,6 @@ repository.
 * `controllers/cookbookRoutes.js`
 * `controllers/authors.js`
 * `controllers/authorRoutes.js`
-* `db/cookbooks.json`
-* `db/authors.json`
 
 5. In the order the files are listed above, work through the prompts, adding your code block under each prompt. Check each route as you complete them.
 6. Submit with a pull request on this repo.

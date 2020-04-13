@@ -3,8 +3,8 @@ const express = require('express')
 
 const app = express()
 
-const cookbookRouter = require('./controllers/cookbookRouter')
-const authorRouter = require('./controllers/authorRouter')
+const cookbookRouter = require('./controllers/cookbookRoutes')
+const authorRouter = require('./controllers/authorRoutes')
 
 // 2. Add the coded needed to make body-parser work within your app.
 

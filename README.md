@@ -33,14 +33,14 @@ repository.
 
 * `index.js`
 * `controllers/cookbooks.js`
+* `controllers/cookbookRoutes.js`
 * `controllers/authors.js`
+* `controllers/authorRoutes.js`
 * `db/cookbooks.json`
 * `db/authors.json`
 
 5. In the order the files are listed above, work through the prompts, adding your code block under each prompt.
-6. After you have finished each prompt, use Postman to find all cookbooks in the database, and copy and paste your JSON object into the `db/cookbooks.json` file.
-7. Do the same thing with your authors collection. Use Postman to find all authors in the database, and copy and paste your JSON object into the `db/authors.json` file.
-8. Submit with a pull request on this repo.
+6. Submit with a pull request on this repo.
 
 ## Plagiarism
 

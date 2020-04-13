@@ -39,7 +39,7 @@ repository.
 * `db/cookbooks.json`
 * `db/authors.json`
 
-5. In the order the files are listed above, work through the prompts, adding your code block under each prompt.
+5. In the order the files are listed above, work through the prompts, adding your code block under each prompt. CHECK EACH ROUTE AS YOU FINISH THEM
 6. Submit with a pull request on this repo.
 
 ## Plagiarism

@@ -28,7 +28,7 @@ repository.
 2. Your connection and seed files are already set up for you. Start by working through the prompts inside 
 * `Author.js`
 * `Cookbook.js`
-3. Then run `mongod` in your terminal. In a different tab, seed your data from the command line. Use mongo to make sure your data was inserted.
+3. Run `mongod` in your terminal. In a different tab, seed your data from the command line. Use mongo to make sure your data was inserted.
 4. Review the prompts that are provided to you in the following files:
 
 * `index.js`

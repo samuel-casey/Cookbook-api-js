@@ -2,8 +2,6 @@
 
 # Cookbook App
 
-Now that you've learned all about routes and controllers using JSON data, let's use a data set we're already familiar and make it dynamic! Remember the cookbook database we worked with before? We are going to use routes and controllers to add CRUD functionality, testing and interacting with our database through Postman.
-
 ## Prerequisites
 
 * Express
@@ -17,14 +15,12 @@ Now that you've learned all about routes and controllers using JSON data, let's 
 1. Fork and clone this repository.
 2. Change into the new directory.
 3. Install dependencies by running `npm install`
-4. Fulfill the listed requirements.
+4. Run `npm audit fix` to make sure all packages are up to date
+5. Fulfill the listed requirements.
 
 Starter code is available to you in the main project repo. You are
 required to turn in your submission by making a pull request on the original
 repository.
-
-Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 9:00am.
 
 ## Requirements
 

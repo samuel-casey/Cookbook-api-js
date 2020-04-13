@@ -1,7 +1,7 @@
 //Import connection
 
 
-/* Create Author model as new schema
+/* Create Author as new schema
     properties:
     firstName (string),
     lastName (string),

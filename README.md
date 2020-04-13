@@ -2,8 +2,6 @@
 
 # Cookbook App
 
-Now that you've learned all about routes and controllers using JSON data, let's use a data set we're already familiar and make it dynamic! Remember the cookbook database we worked with before? We are going to use routes and controllers to add CRUD functionality, testing and interacting with our database through Postman.
-
 ## Prerequisites
 
 * Express
@@ -17,20 +15,21 @@ Now that you've learned all about routes and controllers using JSON data, let's 
 1. Fork and clone this repository.
 2. Change into the new directory.
 3. Install dependencies by running `npm install`
-4. Fulfill the listed requirements.
+4. Run `npm audit fix` to make sure all packages are up to date
+5. Fulfill the listed requirements.
 
 Starter code is available to you in the main project repo. You are
 required to turn in your submission by making a pull request on the original
 repository.
 
-Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 9:00am.
-
 ## Requirements
 
 1. Start your server from the terminal.
-2. Your models, connection and seed files are already set up for you. Run `mongod` in your terminal. In a different tab, seed your data from the command line.
-3. Review the prompts that are provided to you in the following files:
+2. Your connection and seed files are already set up for you. Start by working through the prompts inside 
+* `Author.js`
+* `Cookbook.js`
+3. Run `mongod` in your terminal. In a different tab, seed your data from the command line. Use mongo to make sure your data was inserted.
+4. Review the prompts that are provided to you in the following files:
 
 * `index.js`
 * `controllers/cookbooks.js`
@@ -38,10 +37,10 @@ the next morning by 9:00am.
 * `db/cookbooks.json`
 * `db/authors.json`
 
-4. In the order the files are listed above, work through the prompts, adding your route/controller code block under each prompt.
-5. After you have finished each prompt, use Postman to find all cookbooks in the database, and copy and paste your JSON object into the `db/cookbooks.json` file.
-6. Do the same thing with your authors collection. Use Postman to find all authors in the database, and copy and paste your JSON object into the `db/authors.json` file.
-7. Submit with a pull request on this repo.
+5. In the order the files are listed above, work through the prompts, adding your code block under each prompt.
+6. After you have finished each prompt, use Postman to find all cookbooks in the database, and copy and paste your JSON object into the `db/cookbooks.json` file.
+7. Do the same thing with your authors collection. Use Postman to find all authors in the database, and copy and paste your JSON object into the `db/authors.json` file.
+8. Submit with a pull request on this repo.
 
 ## Plagiarism
 

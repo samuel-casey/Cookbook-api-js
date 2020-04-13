@@ -25,11 +25,10 @@ repository.
 ## Requirements
 
 1. Start your server from the terminal.
-2. Your models, connection and seed files are already set up for you. Run `mongod` in your terminal. In a different tab, seed your data from the command line.
+2. Your connection and seed files are already set up for you. Start by working through the prompts inside * `Author.js`
+* `Cookbook.js`. Then run `mongod` in your terminal. In a different tab, seed your data from the command line. Use mongo to make sure your data was inserted.
 3. Review the prompts that are provided to you in the following files:
 
-* `Author.js`
-* `Cookbook.js`
 * `index.js`
 * `controllers/cookbooks.js`
 * `controllers/authors.js`

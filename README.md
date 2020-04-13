@@ -25,9 +25,11 @@ repository.
 ## Requirements
 
 1. Start your server from the terminal.
-2. Your connection and seed files are already set up for you. Start by working through the prompts inside * `Author.js`
-* `Cookbook.js`. Then run `mongod` in your terminal. In a different tab, seed your data from the command line. Use mongo to make sure your data was inserted.
-3. Review the prompts that are provided to you in the following files:
+2. Your connection and seed files are already set up for you. Start by working through the prompts inside 
+* `Author.js`
+* `Cookbook.js`
+3. Then run `mongod` in your terminal. In a different tab, seed your data from the command line. Use mongo to make sure your data was inserted.
+4. Review the prompts that are provided to you in the following files:
 
 * `index.js`
 * `controllers/cookbooks.js`
@@ -35,10 +37,10 @@ repository.
 * `db/cookbooks.json`
 * `db/authors.json`
 
-4. In the order the files are listed above, work through the prompts, adding your code block under each prompt.
-5. After you have finished each prompt, use Postman to find all cookbooks in the database, and copy and paste your JSON object into the `db/cookbooks.json` file.
-6. Do the same thing with your authors collection. Use Postman to find all authors in the database, and copy and paste your JSON object into the `db/authors.json` file.
-7. Submit with a pull request on this repo.
+5. In the order the files are listed above, work through the prompts, adding your code block under each prompt.
+6. After you have finished each prompt, use Postman to find all cookbooks in the database, and copy and paste your JSON object into the `db/cookbooks.json` file.
+7. Do the same thing with your authors collection. Use Postman to find all authors in the database, and copy and paste your JSON object into the `db/authors.json` file.
+8. Submit with a pull request on this repo.
 
 ## Plagiarism
 

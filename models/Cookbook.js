@@ -5,7 +5,6 @@
     Properties:
     title (string),
     yearPublished (integer),
-    author[] (reference to Author model by id)
 */
 
 

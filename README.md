@@ -32,9 +32,7 @@ repository.
 4. Review the prompts that are provided to you in the following files:
 
 * `server.js`
-* `controllers/cookbooks.js`
 * `controllers/cookbookRoutes.js`
-* `controllers/authors.js`
 * `controllers/authorRoutes.js`
 
 5. In the order the files are listed above, work through the prompts, adding your code block under each prompt. Check each route as you complete them.

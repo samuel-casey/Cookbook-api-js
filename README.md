@@ -31,7 +31,7 @@ repository.
 3. Run `mongod` in your terminal. In a different tab, seed your data from the command line. Use mongo to make sure your data was inserted.
 4. Review the prompts that are provided to you in the following files:
 
-* `index.js`
+* `server.js`
 * `controllers/cookbooks.js`
 * `controllers/cookbookRoutes.js`
 * `controllers/authors.js`

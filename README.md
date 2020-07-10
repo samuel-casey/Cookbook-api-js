@@ -24,7 +24,7 @@ repository.
 
 ## Requirements
 
-1. Start your server from the terminal.
+1. Start your server from the terminal by running: `npm run dev`
 2. Your connection and seed files are already set up for you. Start by working through the prompts inside 
 * `Author.js`
 * `Cookbook.js`

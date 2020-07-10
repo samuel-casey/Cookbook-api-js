@@ -2,7 +2,6 @@ const express = require('express')
 const router = express.Router()
 
 
-// Require the Author Controller.
 
 // Write the route to list all authors
 
@@ -14,7 +13,7 @@ const router = express.Router()
 
 // Update the cookbook using Postman.
 
-// Bonus: Write the route to delete cookbooks by author name.
+// Bonus: Write the route to delete cookbooks by author name. (hint: There are a couple on different ways to do this and you may have to change/add code in other files)
 
 
 module.exports = router

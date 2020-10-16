@@ -38,6 +38,18 @@ repository.
 5. In the order the files are listed above, work through the prompts, adding your code block under each prompt. Check each route as you complete them.
 6. Submit with a pull request on this repo.
 
+## Routing Table
+
+Update the below routing table with the routes
+
+| **URL**     | **HTTP Verb** | **Action** | **Description**             |
+| ----------- | ------------- | -------------- | ---------------------- |
+| /     | GET           |    index            | get all fruits         |
+| /     | POST          |    create            | create a new fruit     |
+| / | GET           |    show            | get a single fruit     |
+| / | PUT           |    update            | update a single fruit  |
+| / | DELETE        |    destroy            | destroy a single fruit |
+
 ## Plagiarism
 
 Take a moment to refamiliarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.

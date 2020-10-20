@@ -1,7 +1,10 @@
-const mongoose = require('mongoose')
+const mongoose = require('mongoose');
+require("dotenv").config()
 
-mongoose.connect('mongodb://localhost/cookbooks_db', { useNewUrlParser: true })
+const mongoURI = process.env.MONGO_DB_URI;
 
-mongoose.Promise = Promise
+mongoose.connect(mongoURI, { useNewUrlParser: true });
 
-module.exports = mongoose
+mongoose.Promise = Promise;
+
+module.exports = mongoose;
